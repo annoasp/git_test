@@ -1,1 +1,2 @@
 Nice to meet you.
+Additional change just to test writing commit message in VS Code.
